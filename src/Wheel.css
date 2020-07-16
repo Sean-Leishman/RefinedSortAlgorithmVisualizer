@@ -1,0 +1,38 @@
+.colour-container {
+    text-align:center;
+}
+
+.segment{
+    display:inline-block; 
+}
+
+.container{
+    text-align:center;
+}
+#canvas{
+    position: relative;
+    display: block;
+    margin-right:auto;
+    margin-left:auto;
+    margin-bottom:10px;
+}
+
+.top-row{
+    margin:auto;
+    left:100px;
+    text-align:center;
+}
+
+.inputs{
+    text-align:center;
+}
+
+.inputs button{
+    position: relative;
+    top:50%;
+    margin:5px;
+}
+input{
+    padding:2px;
+    margin:2px;
+}

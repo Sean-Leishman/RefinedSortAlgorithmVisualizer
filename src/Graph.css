@@ -1,0 +1,29 @@
+.bar-container {
+    text-align:center;
+}
+
+.bar{
+    display:inline-block;
+    background-color: aqua;
+}
+
+.top-row{
+    margin:auto;
+    left:100px;
+    text-align:center;
+}
+
+.inputs{
+    width:500px;
+    margin:auto;
+    padding:10px;
+}
+
+.inputs button{
+    margin:5px;
+}
+
+input{
+    padding:2px;
+    margin:2px;
+}
