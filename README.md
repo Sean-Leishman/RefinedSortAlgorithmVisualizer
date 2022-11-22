@@ -1,10 +1,12 @@
 # Sort Algorithm Visualiser
 
-Website that shows a visualisation of sorting algorithms sorting some representation of an array.  
+Website that shows a visualisation of sorting algorithms sorting some representation of an array.    
+
 Currently supported algorithms are:
 - Merge Sort
 - Insertion Sort
-- Bubble Sort
+- Bubble Sort  
+
 Current representations available are:  
 - Bar Graph
 - Color Wheel
